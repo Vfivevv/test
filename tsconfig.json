@@ -1,6 +1,6 @@
 {
 	"include": ["**/*.ts", "**/*.js"],
-	"exclude": ["node_modules", "apps", "packages", "dangerfile.ts"],
+	// "exclude": ["node_modules", "apps", "packages", "dangerfile.ts"],
 	"files": ["packages.d.ts"],
 	"compilerOptions": {
 		"strict": true,
